@@ -1,7 +1,6 @@
 # FinalYear_Elearning #
 
 ## Working of the site for the user ##
-
 Play the audio using the SELECT button on the left hand side.<br />
 Listen to the audio. <br />
 On the right hand side, press the START button to start your part.<br />
@@ -11,3 +10,5 @@ You then press the SEND button to send the audio for processing.<br />
 After processing you get the AUDIO WAVEFORM and SPECTROGRAM of your recorded audio on the site. <br />
 
 ## Working of the site on the backend ##
+Audio is recorded using JavaScript’s WebRTC module in the .wav file format.<br />
+Recorded audio is processed and plotted using Python libraries.<br />
