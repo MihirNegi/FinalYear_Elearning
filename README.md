@@ -8,6 +8,6 @@ On the right hand side, press the START button to start your part.<br />
 Press the RECORD button to record your voice. <br />
 You could you the PLAY button to hear your recorded voice.<br />
 You then press the SEND button to send the audio for processing.<br />
-After processing you get the audio waveform and spectrogram of your recorded audio on the site. <br />
+After processing you get the AUDIO WAVEFORM and SPECTROGRAM of your recorded audio on the site. <br />
 
 ## Working of the site on the backend ##
